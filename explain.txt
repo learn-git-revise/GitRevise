@@ -1,0 +1,1 @@
+This is an explanation as to why I always like testing git
