@@ -1,0 +1,2 @@
+Trying to create a merge conflict
+Additional text in here
